@@ -9,7 +9,7 @@ In this folder, you'll find:
     - Here, we explain how data engineers can drive business success by aligning metrics with experimentation and strategic decision-making.
     - The emphasisis is on the role of key performance indicators (KPIs) in shaping data models and guiding hypothesis testing, and an introduction to hypothesis testing.
 
-2. [Leading and Lagging Metrics](2-leading_lagging_metrics,md)
+2. [Leading and Lagging Metrics](2-leading_lagging_metrics.md)
     - Here, we discuss the difference beetween leading and lagging metrics, illustrating how each fits into product analytics and user funnels.
     - We discuss how data engineers can have larger impact by adopting a product manager mindset; enabling us to connect data insights with enhanced user experiences and long-term business outcomes.
 
