@@ -9,4 +9,4 @@ Pick a product that you love using (spotify, linkedin, etc)
     - You should detail out the allocation of each test cell and the different conditions you’re testing
     - Your hypothesis of which leading and lagging metrics would be impacted by this experiment
 
-## 2. Solution
+### [The solution can be found here](4-homework_solution.md)
