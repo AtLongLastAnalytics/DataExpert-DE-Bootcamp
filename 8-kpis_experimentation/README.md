@@ -5,7 +5,7 @@ The files herein are based on the bootcamp material created by Zach Wilson.
 I have enriched the course notes by adding extensive narrative from my own experiences from working with data for 10 years
 
 In this folder, you'll find:
-1. [Decoding Business Success: Metrics, Growth, Strategies, and Collaborative Approaches](1-decoding_business_success)
+1. [Decoding Business Success: Metrics, Growth, Strategies, and Collaborative Approaches](1-decoding_business_success.md)
     - Here, we explain how data engineers can drive business success by aligning metrics with experimentation and strategic decision-making.
     - The emphasisis is on the role of key performance indicators (KPIs) in shaping data models and guiding hypothesis testing, and an introduction to hypothesis testing.
 
